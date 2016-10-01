@@ -1,0 +1,341 @@
+<manifest alg="2" build="2015.0.1.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="thomastonapi.com" resolutions="1x" timestamp="1475335339180">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="3805074011" ref="outside-work:portfolio:2016:about:index:prior-work---sketches:2015:2014:contact:full-portfolio-pdf"/>
+    <file name="outside-work.css" crc="421609486" ref="outside-work"/>
+    <file name="portfolio.css" crc="3942140247" ref="portfolio"/>
+    <file name="2016.css" crc="4246044488" ref="2016"/>
+    <file name="about.css" crc="4251718768" ref="about"/>
+    <file name="index.css" crc="4147133708" ref="index"/>
+    <file name="prior-work---sketches.css" crc="3886732160" ref="prior-work---sketches"/>
+    <file name="2015.css" crc="3980110773" ref="2015"/>
+    <file name="2014.css" crc="4281682633" ref="2014"/>
+    <file name="contact.css" crc="243362387" ref="contact"/>
+    <file name="full-portfolio-pdf.css" crc="437641418" ref="full-portfolio-pdf"/>
+  </folder>
+  <folder name="assets">
+    <file name="thomas-tonapi-serial-video.mp4" crc="3816980637" seo="true" mt="1425429744000"/>
+    <file name="thomas_tonapi_revised_portfolio-print-(alternate-cover-and-transition).pdf" crc="529750009" seo="true" mt="1469449013000"/>
+    <file name="tonapi_thomas_assignement-1.pdf" crc="4164321877" seo="true" mt="1472688522000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4183747535" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="museutils.js" crc="334180058" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="pie.js" crc="3827607177" ref="index:outside-work:2016"/>
+    <file name="webpro.js" crc="7309900" ref="index:contact:2014:outside-work:2016:2015:prior-work---sketches"/>
+    <file name="musewpslideshow.js" crc="4149944274" ref="index:2014:outside-work:2016:2015:prior-work---sketches"/>
+    <file name="jquery.museoverlay.js" crc="4282111687" ref="index:2014:outside-work:2016:2015:prior-work---sketches"/>
+    <file name="touchswipe.js" crc="526709374" ref="index:2014:outside-work:2016:2015:prior-work---sketches"/>
+    <file name="jquery.musemenu.js" crc="315128729" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="jquery.watch.js" crc="293013060" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="form_check.php" crc="481505460" ref="contact"/>
+    <file name="form_throttle.php" crc="190635071" ref="contact"/>
+    <file name="form_process.php" crc="3869018311" ref="contact"/>
+    <file name="form-u4720.php" crc="527091713" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u212-4.png" crc="324349775" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="img_9521.jpg" crc="4159322976" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:2014:outside-work:2016:2015:prior-work---sketches"/>
+    <file name="tumblr 4.jpg" crc="3913086429" seo="true" ref="index"/>
+    <file name="img_9521-crop-u2438.jpg" crc="4140901603" ref="index"/>
+    <file name="tumblr 4-crop-u4867.jpg" crc="347242162" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:2014:outside-work:2016:2015:prior-work---sketches"/>
+    <file name="u187-4.png" crc="116313088" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u192-4.png" crc="95789650" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="u2926-4.png" crc="3769175576" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u220-4.png" crc="4211560204" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u235-4.png" crc="3776625301" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u239-4.png" crc="4141505483" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u248-4.png" crc="286524335" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u602-4.png" crc="4240807588" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u200-4.png" crc="78167832" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u208-4.png" crc="4220262317" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="u558-4.png" crc="3787050208" ref="index:about:portfolio:contact:2014:outside-work:2016:2015:full-portfolio-pdf:prior-work---sketches"/>
+    <file name="img_9212-crop-u2787.jpg" crc="3909032155" ref="about"/>
+    <file name="u578-14.png" crc="253718377" ref="about"/>
+    <file name="finalized version.jpg" crc="24748598" seo="true" ref="portfolio"/>
+    <file name="u2130-4.png" crc="478954619" ref="portfolio"/>
+    <file name="u4738-4.png" crc="3899762920" ref="contact"/>
+    <file name="u4731-17.png" crc="311828129" ref="contact"/>
+    <file name="u4731-17-r.png" crc="3844863548" ref="contact"/>
+    <file name="u4731-17-m.png" crc="446077895" ref="contact"/>
+    <file name="u4731-17-fs.png" crc="51175883" ref="contact"/>
+    <file name="final.jpg" crc="212298174" seo="true" ref="2014"/>
+    <file name="dsc_2897.jpg" crc="283591682" seo="true" ref="2014"/>
+    <file name="dsc_2901.jpg" crc="3773839756" seo="true" ref="2014"/>
+    <file name="dsc_2903.jpg" crc="3778983224" seo="true" ref="2014"/>
+    <file name="dsc_2919.jpg" crc="144160933" seo="true" ref="2014"/>
+    <file name="dsc_2920.jpg" crc="490821298" seo="true" ref="2014"/>
+    <file name="dsc_2921.jpg" crc="3907798410" seo="true" ref="2014"/>
+    <file name="dsc_2925.jpg" crc="428776556" seo="true" ref="2014"/>
+    <file name="img_9586 edited.jpg" crc="4253277037" seo="true" ref="2014"/>
+    <file name="final2.jpg" crc="399608658" seo="true" ref="2014"/>
+    <file name="pipe.jpg" crc="3796217394" seo="true" ref="2014"/>
+    <file name="still life.jpg" crc="197607826" seo="true" ref="2014"/>
+    <file name="thomas tonapi collage.jpg" crc="4189591703" seo="true" ref="2014"/>
+    <file name="thomas tonapi italy.jpg" crc="3778338279" seo="true" ref="2014"/>
+    <file name="tonapi_spacereseach_project5_furniture.jpg" crc="524781108" seo="true" ref="2014"/>
+    <file name="tonapi_spaceresearchprojectsystem_model1.jpg" crc="172940763" seo="true" ref="2014"/>
+    <file name="assignment 4.jpg" crc="3863860012" seo="true" ref="2014"/>
+    <file name="still life plus fantasy.jpg" crc="4010346335" seo="true" ref="2014"/>
+    <file name="face.jpg" crc="4072439048" seo="true" ref="2014"/>
+    <file name="perspective practice-crop-u2885.jpg" crc="4238877049" ref="2014"/>
+    <file name="20141209_124054.jpg" crc="4263697538" seo="true" ref="2014"/>
+    <file name="20141209_124106.jpg" crc="4257495212" seo="true" ref="2014"/>
+    <file name="20141209_124118.jpg" crc="3845544136" seo="true" ref="2014"/>
+    <file name="20141209_124135.jpg" crc="75405119" seo="true" ref="2014"/>
+    <file name="assignment 6 final.jpg" crc="3830676476" seo="true" ref="2014"/>
+    <file name="final-crop-u1828.jpg" crc="345788286" ref="2014"/>
+    <file name="dsc_2897130x98.jpg" crc="200926371" seo="true" ref="2014"/>
+    <file name="dsc_2901143x95.jpg" crc="535704640" seo="true" ref="2014"/>
+    <file name="dsc_2903138x95.jpg" crc="3969976905" seo="true" ref="2014"/>
+    <file name="dsc_2919143x95.jpg" crc="3808551331" seo="true" ref="2014"/>
+    <file name="dsc_2920143x90.jpg" crc="3869901729" seo="true" ref="2014"/>
+    <file name="dsc_2921143x95.jpg" crc="4049971469" seo="true" ref="2014"/>
+    <file name="dsc_2925143x87.jpg" crc="518190437" seo="true" ref="2014"/>
+    <file name="img_9586 edited131x86.jpg" crc="3758278794" seo="true" ref="2014"/>
+    <file name="final131x96.jpg" crc="4256504141" seo="true" ref="2014"/>
+    <file name="pipe131x106.jpg" crc="42065839" seo="true" ref="2014"/>
+    <file name="still life131x116.jpg" crc="4177210853" seo="true" ref="2014"/>
+    <file name="thomas tonapi collage138x95.jpg" crc="3984691984" seo="true" ref="2014"/>
+    <file name="thomas tonapi italy137x93.jpg" crc="522716792" seo="true" ref="2014"/>
+    <file name="tonapi_spacereseach_project5_furniture115x99.jpg" crc="3825107626" seo="true" ref="2014"/>
+    <file name="tonapi_spaceresearchprojectsystem_model1-crop-u1926.jpg" crc="4251807157" ref="2014"/>
+    <file name="assignment 4147x95.jpg" crc="4257539844" seo="true" ref="2014"/>
+    <file name="still life plus fantasy131x116.jpg" crc="127404362" seo="true" ref="2014"/>
+    <file name="face-crop-u2879.jpg" crc="3877790310" ref="2014"/>
+    <file name="perspective practice130x117.jpg" crc="434959506" seo="true" ref="2014"/>
+    <file name="20141209_124054131x99.jpg" crc="375440803" seo="true" ref="2014"/>
+    <file name="20141209_124106129x99.jpg" crc="439516828" seo="true" ref="2014"/>
+    <file name="20141209_124118131x99.jpg" crc="4036189482" seo="true" ref="2014"/>
+    <file name="20141209_12413577x99.jpg" crc="3992396377" seo="true" ref="2014"/>
+    <file name="assignment 6 final131x99.jpg" crc="154138973" seo="true" ref="2014"/>
+    <file name="thomas_tonapi_atb_poster.jpg" crc="3778717755" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_atb_word banner.jpg" crc="259613639" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_bifold thrasher 2016-page-001.jpg" crc="3759915974" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_bifold thrasher 2016-page-002.jpg" crc="449901083" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_brochure trifold thrasher 2016-page-001.jpg" crc="292370658" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_brochure trifold thrasher 2016-page-002.jpg" crc="3925167084" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-001.jpg" crc="3845786052" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-002.jpg" crc="34577710" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-003.jpg" crc="204189834" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-004.jpg" crc="152879510" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-005.jpg" crc="185950719" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_employee wall.jpg" crc="299621077" seo="true" ref="outside-work"/>
+    <file name="dsc_0016.jpg" crc="397263343" seo="true" ref="outside-work"/>
+    <file name="dsc_0022.jpg" crc="3814433164" seo="true" ref="outside-work"/>
+    <file name="dsc_0025.jpg" crc="370247772" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_atb_poster-crop-u4540.jpg" crc="4217717470" ref="outside-work"/>
+    <file name="thomas_tonapi_atb_word banner-crop-u4526.jpg" crc="234015714" ref="outside-work"/>
+    <file name="thomas_tonapi_bifold thrasher 2016-page-001-crop-u2512.jpg" crc="4166834758" ref="outside-work"/>
+    <file name="thomas_tonapi_bifold thrasher 2016-page-002-crop-u2586.jpg" crc="3979567794" ref="outside-work"/>
+    <file name="thomas_tonapi_brochure trifold thrasher 2016-page-001140x108.jpg" crc="348800999" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_brochure trifold thrasher 2016-page-002140x108.jpg" crc="319602232" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-001112x112.jpg" crc="4282433782" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-002112x112.jpg" crc="394293954" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-003112x112.jpg" crc="436165193" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-004112x112.jpg" crc="338465311" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_n_wayfinding-page-005112x112.jpg" crc="4090622711" seo="true" ref="outside-work"/>
+    <file name="thomas_tonapi_employee wall-crop-u2672.jpg" crc="4126112398" ref="outside-work"/>
+    <file name="dsc_0016-crop-u2696.jpg" crc="4241855295" ref="outside-work"/>
+    <file name="dsc_0022-crop-u2705.jpg" crc="3760809918" ref="outside-work"/>
+    <file name="dsc_0025-crop-u2714.jpg" crc="4203779924" ref="outside-work"/>
+    <file name="img_9969.jpg" crc="394156672" seo="true" ref="2016"/>
+    <file name="image 008.jpg" crc="4121471176" seo="true" ref="2016"/>
+    <file name="image 013.jpg" crc="388835775" seo="true" ref="2016"/>
+    <file name="image 039.jpg" crc="3779892039" seo="true" ref="2016"/>
+    <file name="image 040.jpg" crc="273570258" seo="true" ref="2016"/>
+    <file name="image 046.jpg" crc="4125888236" seo="true" ref="2016"/>
+    <file name="img_9883 edited.jpg" crc="4176397128" seo="true" ref="2016"/>
+    <file name="img_9889 edited.jpg" crc="4271436062" seo="true" ref="2016"/>
+    <file name="thomas tonapi_systems in design_ final.jpg" crc="3843932361" seo="true" ref="2016"/>
+    <file name="final3.jpg" crc="134363231" seo="true" ref="2016"/>
+    <file name="img_9955.jpg" crc="4242606721" seo="true" ref="2016"/>
+    <file name="img_9969233x198.jpg" crc="3968920460" seo="true" ref="2016"/>
+    <file name="image 008-crop-u526.jpg" crc="3854716659" ref="2016"/>
+    <file name="image 013-crop-u2161.jpg" crc="8649738" ref="2016"/>
+    <file name="image 039-crop-u2170.jpg" crc="365241959" ref="2016"/>
+    <file name="image 040-crop-u2179.jpg" crc="3828692283" ref="2016"/>
+    <file name="image 046-crop-u2188.jpg" crc="319300575" ref="2016"/>
+    <file name="img_9883 edited-crop-u2207.jpg" crc="295813043" ref="2016"/>
+    <file name="img_9889 edited-crop-u2216.jpg" crc="211267864" ref="2016"/>
+    <file name="thomas tonapi_systems in design_ final-crop-u2230.jpg" crc="3981966535" ref="2016"/>
+    <file name="final-crop-u2809.jpg" crc="3917718335" ref="2016"/>
+    <file name="img_9955-crop-u2818.jpg" crc="3838547954" ref="2016"/>
+    <file name="album cover back, cut paper.jpg" crc="3842196315" seo="true" ref="2015"/>
+    <file name="album cover- cut paper.jpg" crc="234658053" seo="true" ref="2015"/>
+    <file name="cartel image book narrative 1.jpg" crc="275916759" seo="true" ref="2015"/>
+    <file name="cartel image book narrative 2.jpg" crc="3758669711" seo="true" ref="2015"/>
+    <file name="cartel image book narrative 3.jpg" crc="4149587881" seo="true" ref="2015"/>
+    <file name="cartel image book narrative 5.jpg" crc="4128157981" seo="true" ref="2015"/>
+    <file name="holes_.jpg" crc="474502354" seo="true" ref="2015"/>
+    <file name="img_9379-crop-u1456.jpg" crc="134648208" ref="2015"/>
+    <file name="rendered 5-crop-u1609.jpg" crc="349219640" ref="2015"/>
+    <file name="img_9385.jpg" crc="201431795" seo="true" ref="2015"/>
+    <file name="img_9486.png" crc="4156152290" seo="true" ref="2015"/>
+    <file name="img_9491.jpg" crc="412681665" seo="true" ref="2015"/>
+    <file name="img_9492.png" crc="4104858914" seo="true" ref="2015"/>
+    <file name="img_9509.jpg" crc="53818296" seo="true" ref="2015"/>
+    <file name="final assignment outline copy.jpg" crc="11911593" seo="true" ref="2015"/>
+    <file name="img_9522.jpg" crc="259604868" seo="true" ref="2015"/>
+    <file name="img_9529.jpg" crc="4027250292" seo="true" ref="2015"/>
+    <file name="img_9533.jpg" crc="53867120" seo="true" ref="2015"/>
+    <file name="img_9668 edited2.jpg" crc="4150448820" seo="true" ref="2015"/>
+    <file name="img_9749 edited.jpg" crc="4187787226" seo="true" ref="2015"/>
+    <file name="img_9750 edited.jpg" crc="364184709" seo="true" ref="2015"/>
+    <file name="map assignment revised latest.jpg" crc="4110546962" seo="true" ref="2015"/>
+    <file name="img_9766 edited.jpg" crc="321090072" seo="true" ref="2015"/>
+    <file name="nested poster edited.jpg" crc="249976579" seo="true" ref="2015"/>
+    <file name="nested poster2.jpg" crc="4087333124" seo="true" ref="2015"/>
+    <file name="nested poster3.jpg" crc="34746452" seo="true" ref="2015"/>
+    <file name="resolved pavarotti.jpg" crc="159263727" seo="true" ref="2015"/>
+    <file name="thomas tonapi scan.jpg" crc="3864470392" seo="true" ref="2015"/>
+    <file name="thomas tonapi scan 1.jpg" crc="3941857285" seo="true" ref="2015"/>
+    <file name="thomas tonapi scan 2.jpg" crc="4178498172" seo="true" ref="2015"/>
+    <file name="tonapi,thomas_imaging project 2.jpg" crc="4096019864" seo="true" ref="2015"/>
+    <file name="type 2 assignment final outline print-page-004.jpg" crc="4122718042" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-001.jpg" crc="4108986212" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-002.jpg" crc="426700522" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-003.jpg" crc="344193571" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-004.jpg" crc="4233947754" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-005.jpg" crc="29450916" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-006.jpg" crc="4016103230" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-007.jpg" crc="4047669247" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-008.jpg" crc="467651126" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-009.jpg" crc="41877916" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-010.jpg" crc="4030110912" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-011.jpg" crc="277480314" seo="true" ref="2015"/>
+    <file name="type 2 assignment final outline print-page-005.jpg" crc="3913092497" seo="true" ref="2015"/>
+    <file name="type 2 assignment final outline print-page-006.jpg" crc="152975097" seo="true" ref="2015"/>
+    <file name="album cover back, cut paper-crop-u1211.jpg" crc="243146838" ref="2015"/>
+    <file name="album cover- cut paper-crop-u1396.jpg" crc="49058821" ref="2015"/>
+    <file name="cartel image book narrative 1107x77.jpg" crc="3838293618" seo="true" ref="2015"/>
+    <file name="cartel image book narrative 2109x76.jpg" crc="4039861518" seo="true" ref="2015"/>
+    <file name="cartel image book narrative 3107x78.jpg" crc="407234665" seo="true" ref="2015"/>
+    <file name="cartel image book narrative 5107x83.jpg" crc="520948741" seo="true" ref="2015"/>
+    <file name="holes_-crop-u1450.jpg" crc="219535592" ref="2015"/>
+    <file name="img_9379-crop-u1459.jpg" crc="420524647" ref="2015"/>
+    <file name="rendered 5-crop-u1612.jpg" crc="323466718" ref="2015"/>
+    <file name="img_9385115x76.jpg" crc="4022452150" seo="true" ref="2015"/>
+    <file name="img_9486115x76.png" crc="3934495805" seo="true" ref="2015"/>
+    <file name="img_9491109x76.jpg" crc="123343061" seo="true" ref="2015"/>
+    <file name="img_9492111x76.png" crc="4046164246" seo="true" ref="2015"/>
+    <file name="img_9509109x77.jpg" crc="3843545316" seo="true" ref="2015"/>
+    <file name="final assignment outline copy-crop-u1441.jpg" crc="4081716038" ref="2015"/>
+    <file name="img_9522110x76.jpg" crc="4162949474" seo="true" ref="2015"/>
+    <file name="img_9529112x76.jpg" crc="204867106" seo="true" ref="2015"/>
+    <file name="img_9533110x76.jpg" crc="176729971" seo="true" ref="2015"/>
+    <file name="img_9668 edited2126x76.jpg" crc="247338900" seo="true" ref="2015"/>
+    <file name="img_9749 edited116x76.jpg" crc="472142776" seo="true" ref="2015"/>
+    <file name="img_9750 edited116x76.jpg" crc="4242290184" seo="true" ref="2015"/>
+    <file name="map assignment revised latest-crop-u1576.jpg" crc="53339821" ref="2015"/>
+    <file name="img_9766 edited115x76.jpg" crc="111081296" seo="true" ref="2015"/>
+    <file name="nested poster edited107x83.jpg" crc="4100161181" seo="true" ref="2015"/>
+    <file name="nested poster2-crop-u1594.jpg" crc="4207007960" ref="2015"/>
+    <file name="nested poster3-crop-u1603.jpg" crc="147540499" ref="2015"/>
+    <file name="resolved pavarotti-crop-u1621.jpg" crc="410717465" ref="2015"/>
+    <file name="thomas tonapi scan107x82.jpg" crc="4267875861" seo="true" ref="2015"/>
+    <file name="thomas tonapi scan 1107x84.jpg" crc="4072249666" seo="true" ref="2015"/>
+    <file name="thomas tonapi scan 2107x84.jpg" crc="4077254518" seo="true" ref="2015"/>
+    <file name="tonapi,thomas_imaging project 2-crop-u1657.jpg" crc="4287066811" ref="2015"/>
+    <file name="type 2 assignment final outline print-page-004122x76.jpg" crc="3895103766" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00199x76.jpg" crc="3915520669" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00299x76.jpg" crc="9989149" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00399x76.jpg" crc="442306749" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00499x76.jpg" crc="3774186370" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00599x76.jpg" crc="502766094" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00699x76.jpg" crc="3830208223" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00799x76.jpg" crc="4247806337" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00899x76.jpg" crc="24977743" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-00999x76.jpg" crc="4029357712" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-01099x76.jpg" crc="102924573" seo="true" ref="2015"/>
+    <file name="project 5 print file-page-01199x76.jpg" crc="49427576" seo="true" ref="2015"/>
+    <file name="type 2 assignment final outline print-page-005122x76.jpg" crc="4116353149" seo="true" ref="2015"/>
+    <file name="type 2 assignment final outline print-page-006122x76.jpg" crc="4198939733" seo="true" ref="2015"/>
+    <file name="u1191-4.png" crc="14392238" ref="2015"/>
+    <file name="u1399-4.png" crc="4178385992" ref="2015"/>
+    <file name="u1408-4.png" crc="51811082" ref="2015"/>
+    <file name="u1417-4.png" crc="51811082" ref="2015"/>
+    <file name="u1426-4.png" crc="51811082" ref="2015"/>
+    <file name="u1435-4.png" crc="51811082" ref="2015"/>
+    <file name="u1453-4.png" crc="420604614" ref="2015"/>
+    <file name="u1462-4.png" crc="4247053572" ref="2015"/>
+    <file name="u1615-4.png" crc="109874216" ref="2015"/>
+    <file name="u1471-4.png" crc="4247053572" ref="2015"/>
+    <file name="u1480-4.png" crc="3958868412" ref="2015"/>
+    <file name="u1489-4.png" crc="3958868412" ref="2015"/>
+    <file name="u1498-4.png" crc="3958868412" ref="2015"/>
+    <file name="u1507-4.png" crc="3958868412" ref="2015"/>
+    <file name="u1444-4.png" crc="3906216431" ref="2015"/>
+    <file name="u1516-4.png" crc="517209203" ref="2015"/>
+    <file name="u1525-4.png" crc="179608234" ref="2015"/>
+    <file name="u1534-4.png" crc="179608234" ref="2015"/>
+    <file name="u1543-4.png" crc="20578938" ref="2015"/>
+    <file name="u1552-4.png" crc="347746699" ref="2015"/>
+    <file name="u1561-4.png" crc="3885325480" ref="2015"/>
+    <file name="u1579-4.png" crc="325062078" ref="2015"/>
+    <file name="u1570-4.png" crc="62191259" ref="2015"/>
+    <file name="u1588-4.png" crc="62191259" ref="2015"/>
+    <file name="u1597-4.png" crc="99723491" ref="2015"/>
+    <file name="u1606-4.png" crc="99723491" ref="2015"/>
+    <file name="u1624-4.png" crc="3868182826" ref="2015"/>
+    <file name="u1651-4.png" crc="17356488" ref="2015"/>
+    <file name="u1633-4.png" crc="4237788578" ref="2015"/>
+    <file name="u1642-4.png" crc="3762773791" ref="2015"/>
+    <file name="u1660-4.png" crc="3785769619" ref="2015"/>
+    <file name="u1669-4.png" crc="135557048" ref="2015"/>
+    <file name="u4973-4.png" crc="3829505443" ref="2015"/>
+    <file name="u4982-4.png" crc="6838502" ref="2015"/>
+    <file name="u4991-4.png" crc="51356830" ref="2015"/>
+    <file name="u5000-4.png" crc="4106959112" ref="2015"/>
+    <file name="u5009-4.png" crc="4098533184" ref="2015"/>
+    <file name="u5018-4.png" crc="3868064340" ref="2015"/>
+    <file name="u5027-4.png" crc="4181242336" ref="2015"/>
+    <file name="u5036-4.png" crc="133295454" ref="2015"/>
+    <file name="u5045-4.png" crc="4279962031" ref="2015"/>
+    <file name="u5054-4.png" crc="69612206" ref="2015"/>
+    <file name="u5063-4.png" crc="419535424" ref="2015"/>
+    <file name="u1678-4.png" crc="3829505443" ref="2015"/>
+    <file name="u1687-4.png" crc="6838502" ref="2015"/>
+    <file name="u1766-7.png" crc="3792651993" ref="full-portfolio-pdf"/>
+    <file name="img_9574 edited.jpg" crc="197283734" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9578 edited.jpg" crc="519822984" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9581 edited.jpg" crc="4234768109" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9603 edited.jpg" crc="4245298" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9605 edited.jpg" crc="304027574" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9607 edited.jpg" crc="3995836927" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9608 edited.jpg" crc="382882265" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9613 edited.jpg" crc="3992148442" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9620 edited.jpg" crc="110855403" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9623 edited.jpg" crc="3761514291" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9624 edited.jpg" crc="4027785248" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9626 edited.jpg" crc="292243197" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9629 edited.jpg" crc="308266083" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9574 edited163x123.jpg" crc="354968029" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9578 edited165x124.jpg" crc="4196803129" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9581 edited164x121.jpg" crc="63476840" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9603 edited-crop-u3094.jpg" crc="3969353884" ref="prior-work---sketches"/>
+    <file name="img_9605 edited149x124.jpg" crc="4109666563" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9607 edited163x123.jpg" crc="35678882" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9608 edited164x124.jpg" crc="3951034186" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9613 edited-crop-u3130.jpg" crc="343023747" ref="prior-work---sketches"/>
+    <file name="img_9620 edited-crop-u3139.jpg" crc="4231733876" ref="prior-work---sketches"/>
+    <file name="img_9623 edited-crop-u3148.jpg" crc="356226619" ref="prior-work---sketches"/>
+    <file name="img_9624 edited142x151.jpg" crc="266475171" seo="true" ref="prior-work---sketches"/>
+    <file name="img_9626 edited-crop-u3166.jpg" crc="3899291028" ref="prior-work---sketches"/>
+    <file name="img_9629 edited-crop-u3175.jpg" crc="265874311" ref="prior-work---sketches"/>
+  </folder>
+  <file name="index.html" crc="502114051" seo="true" mt="1475330748341" redirect="true"/>
+  <file name="about.html" crc="4053131285" seo="true" mt="1475279424117" redirect="true"/>
+  <file name="portfolio.html" crc="113997996" seo="true" mt="1475329937757" redirect="true"/>
+  <file name="contact.html" crc="272507103" seo="true" mt="1475279653293" redirect="true"/>
+  <file name="2014.html" crc="124927884" seo="true" mt="1475334842929" redirect="true"/>
+  <file name="outside-work.html" crc="216366286" seo="true" mt="1475246823797" redirect="true"/>
+  <file name="2016.html" crc="315306797" seo="true" mt="1475329846800" redirect="true"/>
+  <file name="2015.html" crc="62700253" seo="true" mt="1475335027002" redirect="true"/>
+  <file name="full-portfolio-pdf.html" crc="360090716" seo="true" mt="1475106293172" redirect="true"/>
+  <file name="prior-work---sketches.html" crc="3785270905" seo="true" mt="1475330403314" redirect="true"/>
+</manifest>
